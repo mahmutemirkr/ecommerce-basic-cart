@@ -1,0 +1,58 @@
+{
+    "01": {
+        "stokno": "01",
+        "productname": "Çanta",
+        "price": "15,00",
+        "currency": "TL",
+        "quantity": 10
+    },
+    "02": {
+        "stokno": "02",
+        "productname": "Bez Bebek",
+        "price": "18,90",
+        "currency": "TL",
+        "quantity": 11
+    },
+    "03": {
+        "stokno": "03",
+        "productname": "Drone",
+        "price": "3856,10",
+        "currency": "TL",
+        "quantity": 16
+    },
+    "04": {
+        "stokno": "04",
+        "productname": "Bilgisayar",
+        "price": "2548,45",
+        "currency": "TL",
+        "quantity": 15
+    },
+    "05": {
+        "stokno": "05",
+        "productname": "PHP Eğitim Seti",
+        "price": "12,90",
+        "currency": "TL",
+        "quantity": 1
+    },
+    "06": {
+        "stokno": "06",
+        "productname": "Eldiven",
+        "price": "19,90",
+        "currency": "TL",
+        "quantity": 10
+    },
+    "07": {
+        "stokno": "07",
+        "productname": "Kazak",
+        "price": "25,00",
+        "currency": "TL",
+        "quantity": 10
+    },
+    "08": {
+        "stokno": "08",
+        "productname": "Gömlek",
+        "price": "35,90",
+        "currency": "TL",
+        "quantity": 30
+    }
+}
